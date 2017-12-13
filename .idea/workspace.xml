@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1df09541-7f92-41ce-8505-09515afe3305" name="Default" comment="Java Tipuri de date si operatori - Siruri - Exercitiul 1">
+    <list default="true" id="1df09541-7f92-41ce-8505-09515afe3305" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema03.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema04.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema05$exercitu2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema05.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema06.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema07.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema08.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Homeworks/Tema09.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/src/Tema08.java" afterPath="$PROJECT_DIR$/Homeworks/src/Tema08.java" />
-      <change beforePath="$PROJECT_DIR$/Homeworks/src/Tema09.java" afterPath="$PROJECT_DIR$/Homeworks/src/Tema09.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -309,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513161792292</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Java Tipuri de date si operatori - Siruri - Exercitiul 1">
+      <created>1513161840403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1513161840403</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
