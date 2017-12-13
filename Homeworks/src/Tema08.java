@@ -1,6 +1,7 @@
 /// Java Tipuri de date si operatori > > Siruri
 
 //Exercitiul 1: un program care aduna doua matrice
+//test
 
 import java.util.Arrays;
 
