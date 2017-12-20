@@ -33,4 +33,4 @@ Raspunsuri intrebari:
 5.a
 6.a
 7.a
-*/
+ */
