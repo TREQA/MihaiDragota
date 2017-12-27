@@ -1,7 +1,7 @@
 //// Java Tipuri de date si operatori > > Siruri
 
 // Exercitul 2: un program care va sorta sirul dat si la iesire va da sirul vechi si cel nou
-//test
+
 
 import java.util.Arrays;
 
