@@ -10,7 +10,7 @@ Fișierul: picture3.gif este de tip gif
 Parametrul de intrare: String[] files = { "picture1.jpg", "text1.txt", "picture2.png", "text2.doc", "picture3.gif"
  */
 
-public class Tema30 {
+public class Tema30{
     public static void main(String[]args){
 
         String [] files = { "picture.jpg", "text1.txt", "picture2.png", "text2.doc", "picture3.gif"};
