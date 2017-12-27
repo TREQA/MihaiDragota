@@ -16,7 +16,7 @@ public class Tema30 {
         String [] files = { "picture.jpg", "text1.txt", "picture2.png", "text2.doc", "picture3.gif"};
         for (int i = 0;i<files.length; i++){
             if(files[i].endsWith(".jpg"))
-                System.out.println("Fisierul: "+ files[i]+" este de tip jpg");
+                System.out.println("Fisierul: "+ files[i]+"este de tip jpg");
             if(files[i].endsWith(".png"))
                 System.out.println("Fisierul: "+ files[i]+" este de tip png");
             if(files[i].endsWith(".gif"))
