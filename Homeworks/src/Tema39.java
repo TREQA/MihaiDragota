@@ -39,6 +39,6 @@ public class Tema39 {
             System.out.println("Jmbg: " + user[3].split("\\:")[1]);
             System.out.println("------------------------------------");
         }
-        br.close();
+         br.close();
     }
 }
