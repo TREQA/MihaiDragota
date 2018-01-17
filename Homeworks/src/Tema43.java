@@ -1,4 +1,4 @@
-// 7. Gestionarea sistemului de fisiere > Serializare
+//7. Gestionarea sistemului de fisiere > Serializare
 
 //Continuare Tema41
 
